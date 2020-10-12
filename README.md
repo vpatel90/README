@@ -10,13 +10,13 @@ I've always been a techy person, I still remember the moment my dad buying me my
 ## How do I do my Best Work?
 
 ### Burst of Inspirations
-There will be random moments through out the day where I feel incredibly productive and motivated and my personal goal is to capture as many of those moments as possible
+There will be random moments through out the day where I feel incredibly productive and motivated. My goal is to capture as many of those moments as possible
 
 ### Asking Questions
 Whenever I get stuck, my first instinct is to ask someone why I am stuck. Sometimes its a 'rubber duck' situation and sometimes I truly just need someone to tell me how to fix the problem. This is probably where I get the most self conscious because I feel like I am bothering people while they are doing their own work.
 
 ### Opinionated, but open to other ideas
-I am a fairly opinionated person, but I am always open for conversation. Definitely *not* 'my way or the highway' type of a person
+I am a fairly opinionated person, but I am always open for conversation. Definitely *not* 'my way or the highway' type
 
 ### Zooming out
 Once I am familiar in an environment, I am strong at zooming out of a problem and figure out how a solution could impact various touchpoints of a system. I like thinking about these potential problems and finding clever solutions to avoid them.
