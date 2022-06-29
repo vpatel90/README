@@ -15,9 +15,6 @@ There will be random moments through out the day where I feel incredibly product
 ### Asking Questions
 Whenever I get stuck, my first instinct is to ask someone why I am stuck. Sometimes its a 'rubber duck' situation and sometimes I truly just need someone to tell me how to fix the problem. This is probably where I get the most self conscious because I feel like I am bothering people while they are doing their own work.
 
-### Opinionated, but open to other ideas
-I am a fairly opinionated person, but I am always open for conversation. Definitely *not* 'my way or the highway' type
-
 ### Zooming out
 Once I am familiar in an environment, I am strong at zooming out of a problem and figure out how a solution could impact various touchpoints of a system. I like thinking about these potential problems and finding clever solutions to avoid them.
 
@@ -37,7 +34,10 @@ Learning new things is something that drives me. I love it when people around me
 This is similar to 'Curiosity' but I think it deserves its own slot here because career development is a high priority for me. For myself and the people around me! I want to help push people to their goals and vice versa.
 
 ### Feedback
-I love an appreciate feedback on anything that I do, this helps me grow! I also am always learning new ways of providing feedback to others. Open communication and being comfortable with others to a degree where feedback is exchanged safely. 
+I love an appreciate feedback on anything that I do, this helps me grow! I also am always learning new ways of providing feedback to others. Open communication and being comfortable with others to a degree where feedback is exchanged safely.
+
+When receiving constructive feedback, I want to grow from the exchange - I like examples of how I can do better and would love follow up in the future whether I have improved or not.
+When giving feedback, I like to be direct but will always be encouraging. Similar to how I like to receive feedback, I will try to provide examples of improvement. If its code related feedback, many times I like to dive into a collaboration session since I find that to be most productive.
 
 ## Goals
 
