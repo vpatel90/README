@@ -2,7 +2,7 @@
 
 ## Who am I and where did I come from?
 
-Hello there! My name is Vivek and professionally I am a Software Engineer. I currently live in Dallas, TX and will be moving to Austin, TX in the near future.
+Hello there! My name is Vivek and professionally I am a Software Engineer. I currently live in Austin, TX.
 I was born in India and lived there for the first 10 years of my life. My family then moved to Texas and then to Connecticut and then back to Texas before settling down in New Braunfels, TX - this little town is about 30 minutes out of San Antonio and what I considered 'home' for a big part of my childhood/teenage years. I attended the University of Texas at Austin and ended up living there for nearly 10 years and is what I consider 'home' at this point in my life!
 
 I've always been a techy person, I still remember the moment my dad buying me my first computer when I was 11. I was at a friends house for a sleepover and when I came home there was a brand new computer all set up, I instantly broke down in tears! My first tinkering with programming came with modding videogames and trying to figure out how to get console games to work on a PC. I think there were moments when my parents probably regretted getting me a computer, but it all worked out - I wouldn't be where I am right now without those events. 
@@ -21,7 +21,7 @@ Once I am familiar in an environment, I am strong at zooming out of a problem an
 ## Communication style
 Any! I am open to any and all types of communication, Zoom/Slack/Phone maybe anything expect email.
 
-I also am 100% open to anyone reaching out to me at anytime. 
+I also am 100% open to anyone reaching out to me at anytime (I may not reply very fast after hours). 
 
 There are no expectations of 'instant replies' especailly in a remote work world.
 
